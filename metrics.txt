@@ -1,0 +1,18 @@
+Salary Capstone
+
+Models:
+
+Linear Regression Model:
+-Training Data R2 Score: 0.370
+-Testing Data R2 Score: 0.406
+-Mean Absolute Error:37769.86
+
+Ridge Regression Model:
+-Training Data R2 Score: 0.370
+-Testing Data R2 Score: 0.406
+-Mean Absolute Error:37769.86
+
+Random Forest Classifier:
+-Training Data R2 Score: 0.408
+-Testing Data R2 Score: 0.398
+-Mean Absolute Error: 37799.38
